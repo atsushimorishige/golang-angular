@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/atsushimorishige/golang-auth0-example/todo"
+	"github.com/atsushimorishige/golang-example/todo"
 	"github.com/gin-gonic/gin"
 )
 
